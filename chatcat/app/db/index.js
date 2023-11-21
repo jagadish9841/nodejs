@@ -13,7 +13,7 @@ Mongoose.connection.on('error', error =>{
 
 
 const connectionString =
-  "mongodb+srv://AkCKKaSHXCnbyu2l:ipsgBVk5RERBuqBv@cluster0.drtu9mz.mongodb.net/CHATCAT?retryWrites=true&w=majority";
+  "dbconnectionstring";
 
 const mongoose = require("mongoose");
 
