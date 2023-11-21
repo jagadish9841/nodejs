@@ -1,0 +1,12 @@
+{
+    "host": "http://localhost:3000",
+    "dbURI": "mongodb+srv://AkCKKaSHXCnbyu2l:ipsgBVk5RERBuqBv@cluster0.drtu9mz.mongodb.net/",
+    "sessionSecret": "catsscanfly",
+    "fb":{
+        "clientID": "332468259492998",
+        "clientSecret": "da936b81060178e79431608af90c43de",
+        "callbackURL": "//localhost:3000/auth/facebook/callback",
+        "profileFields": ["id", "displayName", "photos"]
+    }
+
+}
